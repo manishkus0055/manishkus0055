@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @manishkus0055
 
 ### 🧠 About Me
-Self-taught developer passionate about **Programming**, **Automation**, **AI/ML**, and building online income systems.  
+Self-taught developer passionate about **Programming**, **Automation**, **AI/ML**.  
 I focus on real-world projects that automate, scale, and solve problems — fast and efficiently.
 
 ---
@@ -45,11 +45,6 @@ I focus on real-world projects that automate, scale, and solve problems — fast
 
 ---
 
-### 📫 Contact
-- **Discord:** `YourDiscordTag#1234`  
-- **Email:** `your.email@example.com` *(optional)*
-
----
 
 ### 📊 GitHub Stats
 
