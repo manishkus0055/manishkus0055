@@ -9,8 +9,6 @@ I focus on real-world projects that automate, scale, and solve problems — fast
 ### 🚀 What I’m Working On
 - ✅ **Instagram Shorts Scraper & General Scraper** — Automates reel downloads for content pipelines & scrapes general websites
 - ✅ **YouTube Shorts Uploader** — Uploads shorts daily with scheduling, customization & error handling  
-- 🔧 **Job Application Bot** — Currently building a bot that auto-applies to jobs on multiple platforms  
-- ⏳ **AI-Powered Projects** — Coming soon: tools using custom-built ML/AI models for automation & monetization
 
 ---
 
