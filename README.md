@@ -38,8 +38,6 @@ I focus on real-world projects that automate, scale, and solve problems — fast
 |--------|-------------|------|
 | 📥 **Instagram & Web Scraper** | Scrapes Reels/Shorts (even private account logic possible). Also scrapes general sites like Wikipedia and more | Python, Selenium, BS4 |
 | 📤 **YouTube Auto Uploader** | Uploads YouTube Shorts daily using browser or API automation | Python, Google API |
-| 🤖 **Job Application Bot** *(WIP)* | Scrapes jobs and auto-applies to relevant ones across platforms | Python, Playwright |
-| 🧠 **AI Tools (Coming Soon)** | Custom-built ML/AI projects for freelancers, creators & automation | PyTorch, TensorFlow, Streamlit |
 
 ---
 
