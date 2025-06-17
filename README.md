@@ -36,7 +36,7 @@ I focus on real-world projects that automate, scale, and solve problems — fast
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 📥 **Instagram & Web Scraper** | Scrapes Reels/Shorts (even private account logic possible). Also scrapes general sites like Wikipedia and more | Python, Selenium, BS4 |
+| 📥 **Instagram & Web Scraper** | Scrapes Reels/Shorts (even private account logic possible). Also scrapes general sites like Wikipedia and more | Python, Playwrite, BS4 |
 | 📤 **YouTube Auto Uploader** | Uploads YouTube Shorts daily using browser or API automation | Python, Google API |
 
 ---
