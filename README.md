@@ -6,17 +6,11 @@ I focus on real-world projects that automate, scale, and solve problems — fast
 
 ---
 
-### 🚀 What I’m Working On
-- ✅ **Instagram Shorts Scraper & General Scraper** — Automates reel downloads for content pipelines & scrapes general websites
-- ✅ **YouTube Shorts Uploader** — Uploads shorts daily with scheduling, customization & error handling  
-
----
-
 ### 💻 Skills
 
 #### 🧑‍💻 Programming:
 - Python, C, SQL (MySQL)
-- HTML, CSS
+- HTML, CSS, JavaScript
 
 #### 📊 Data Science:
 - NumPy, Pandas, Matplotlib, Seaborn, Streamlit
@@ -32,12 +26,13 @@ I focus on real-world projects that automate, scale, and solve problems — fast
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 📥 **Instagram & Web Scraper** | Scrapes Reels/Shorts (even private account logic possible). Also scrapes general sites like Wikipedia and more | Python, Playwrite, BS4 |
-| 📤 **YouTube Auto Uploader** | Uploads YouTube Shorts daily using browser or API automation | Python, Google API |
+| **Instagram & Web Scraper** | Scrapes Reels/Shorts (even private account logic possible). Also scrapes general sites like Wikipedia and more | Python, Playwrite, BS4 |
+| **YouTube Auto Uploader** | Uploads YouTube Shorts daily using browser or API automation | Python, Google API |
+| **Truelancer Job Scraper** | Scrap Jobs From Truelancer Website | Python, Selenium |
 
 ---
 
