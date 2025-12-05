@@ -1,42 +1,41 @@
-# 👋 Hi, I’m @manishkus0055
+# Hi, I'm @manishkus0055
 
-### 🧠 About Me
-Self-taught developer passionate about **Programming**, **Automation**, **AI/ML**.  
-I focus on real-world projects that automate, scale, and solve problems — fast and efficiently.
+About Me
 
----
+I am a passionate developer with expertise in Programming, Automation, and AI/ML. I specialize in building real-world solutions that automate processes, scale efficiently, and solve complex problems. My work focuses on creating robust, production-ready applications across various domains.
+Technical Skills
+Programming Languages
 
-### 💻 Skills
+    Python, C
 
-#### 🧑‍💻 Programming:
-- Python, C, SQL (MySQL)
-- HTML, CSS, JavaScript
+Web Development
 
-#### 📊 Data Science:
-- NumPy, Pandas, Matplotlib, Seaborn, Streamlit
+    Frontend: HTML, CSS, JavaScript, React
 
-#### 🧠 Machine Learning / AI:
-- Scikit-Learn, TensorFlow, PyTorch  
-- Build and train **fully-fledged custom ML/AI models** from scratch
+    Backend: FastAPI, Django, REST APIs
 
-#### ⚙️ Automation:
-- Web Scraping: Selenium, Playwright, BeautifulSoup (BS4)
-- Bot Development: Discord bots, YouTube automation, job automation
-- RPA: UiPath
+    Databases: MySQL, PostgreSQL, NoSQL, MongoDB
 
----
+Data Science & Analytics
 
-### 📂 Projects
+    NumPy, Pandas, Matplotlib, Seaborn, Streamlit
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Instagram & Web Scraper** | Scrapes Reels/Shorts (even private account logic possible). Also scrapes general sites like Wikipedia and more | Python, Playwrite, BS4 |
-| **YouTube Auto Uploader** | Uploads YouTube Shorts daily using browser or API automation | Python, Google API |
-| **Truelancer Job Scraper** | Scrap Jobs From Truelancer Website | Python, Selenium |
+Machine Learning & AI
 
----
+    Scikit-Learn, TensorFlow, PyTorch
 
+    Experience in building and deploying custom ML/AI models from scratch
 
-### 📊 GitHub Stats
+Automation & Tools
 
-![manishkus0055's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkus0055&show_icons=true&theme=tokyonight)
+    Web Scraping: Selenium, Playwright, BeautifulSoup
+
+    Bot Development: Discord bots, YouTube automation, RPA (UiPath)
+
+    Version Control: Git, GitHub
+
+GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=manishkus0055&show_icons=true&theme=tokyonight&hide_title=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=manishkus0055&layout=compact&theme=tokyonight
